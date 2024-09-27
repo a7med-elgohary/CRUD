@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USERR\\Desktop\\my career\\OOP\\CPUD Opration\\CRUD Operation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1858AB-A1E7-43E2-BDD0-0776BCBDCC90}|CRUD Operation\\CRUD Operation.csproj|c:\\users\\userr\\desktop\\my career\\oop\\cpud opration\\crud operation\\crud operation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1858AB-A1E7-43E2-BDD0-0776BCBDCC90}|CRUD Operation\\CRUD Operation.csproj|solutionrelative:crud operation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1858AB-A1E7-43E2-BDD0-0776BCBDCC90}|CRUD Operation\\CRUD Operation.csproj|c:\\users\\userr\\desktop\\my career\\oop\\cpud opration\\crud operation\\crud operation\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1858AB-A1E7-43E2-BDD0-0776BCBDCC90}|CRUD Operation\\CRUD Operation.csproj|solutionrelative:crud operation\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1858AB-A1E7-43E2-BDD0-0776BCBDCC90}|CRUD Operation\\CRUD Operation.csproj|c:\\users\\userr\\desktop\\my career\\oop\\cpud opration\\crud operation\\crud operation\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1858AB-A1E7-43E2-BDD0-0776BCBDCC90}|CRUD Operation\\CRUD Operation.csproj|solutionrelative:crud operation\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.cs",
+              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\my career\\OOP\\CPUD Opration\\CRUD Operation\\CRUD Operation\\App.cs",
+              "RelativeDocumentMoniker": "CRUD Operation\\App.cs",
+              "ToolTip": "C:\\Users\\USERR\\Desktop\\my career\\OOP\\CPUD Opration\\CRUD Operation\\CRUD Operation\\App.cs",
+              "RelativeToolTip": "CRUD Operation\\App.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAvwC0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:21:12.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "USERS.cs",
+              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\my career\\OOP\\CPUD Opration\\CRUD Operation\\CRUD Operation\\USERS.cs",
+              "RelativeDocumentMoniker": "CRUD Operation\\USERS.cs",
+              "ToolTip": "C:\\Users\\USERR\\Desktop\\my career\\OOP\\CPUD Opration\\CRUD Operation\\CRUD Operation\\USERS.cs",
+              "RelativeToolTip": "CRUD Operation\\USERS.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAFEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T05:09:34.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\my career\\OOP\\CPUD Opration\\CRUD Operation\\CRUD Operation\\Program.cs",
+              "RelativeDocumentMoniker": "CRUD Operation\\Program.cs",
+              "ToolTip": "C:\\Users\\USERR\\Desktop\\my career\\OOP\\CPUD Opration\\CRUD Operation\\CRUD Operation\\Program.cs",
+              "RelativeToolTip": "CRUD Operation\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T04:57:35.491Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

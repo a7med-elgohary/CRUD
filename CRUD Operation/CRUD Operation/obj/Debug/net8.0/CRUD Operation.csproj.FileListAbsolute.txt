@@ -1,0 +1,28 @@
+C:\Users\USERR\Desktop\CPUD Opration\CRUD Operation\CRUD Operation\bin\Debug\net8.0\CRUD Operation.exe
+C:\Users\USERR\Desktop\CPUD Opration\CRUD Operation\CRUD Operation\bin\Debug\net8.0\CRUD Operation.deps.json
+C:\Users\USERR\Desktop\CPUD Opration\CRUD Operation\CRUD Operation\bin\Debug\net8.0\CRUD Operation.runtimeconfig.json
+C:\Users\USERR\Desktop\CPUD Opration\CRUD Operation\CRUD Operation\bin\Debug\net8.0\CRUD Operation.dll
+C:\Users\USERR\Desktop\CPUD Opration\CRUD Operation\CRUD Operation\bin\Debug\net8.0\CRUD Operation.pdb
+C:\Users\USERR\Desktop\CPUD Opration\CRUD Operation\CRUD Operation\obj\Debug\net8.0\CRUD Operation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USERR\Desktop\CPUD Opration\CRUD Operation\CRUD Operation\obj\Debug\net8.0\CRUD Operation.AssemblyInfoInputs.cache
+C:\Users\USERR\Desktop\CPUD Opration\CRUD Operation\CRUD Operation\obj\Debug\net8.0\CRUD Operation.AssemblyInfo.cs
+C:\Users\USERR\Desktop\CPUD Opration\CRUD Operation\CRUD Operation\obj\Debug\net8.0\CRUD Operation.csproj.CoreCompileInputs.cache
+C:\Users\USERR\Desktop\CPUD Opration\CRUD Operation\CRUD Operation\obj\Debug\net8.0\CRUD Operation.dll
+C:\Users\USERR\Desktop\CPUD Opration\CRUD Operation\CRUD Operation\obj\Debug\net8.0\refint\CRUD Operation.dll
+C:\Users\USERR\Desktop\CPUD Opration\CRUD Operation\CRUD Operation\obj\Debug\net8.0\CRUD Operation.pdb
+C:\Users\USERR\Desktop\CPUD Opration\CRUD Operation\CRUD Operation\obj\Debug\net8.0\CRUD Operation.genruntimeconfig.cache
+C:\Users\USERR\Desktop\CPUD Opration\CRUD Operation\CRUD Operation\obj\Debug\net8.0\ref\CRUD Operation.dll
+C:\Users\USERR\Desktop\my career\OOP\CPUD Opration\CRUD Operation\CRUD Operation\bin\Debug\net8.0\CRUD Operation.exe
+C:\Users\USERR\Desktop\my career\OOP\CPUD Opration\CRUD Operation\CRUD Operation\bin\Debug\net8.0\CRUD Operation.deps.json
+C:\Users\USERR\Desktop\my career\OOP\CPUD Opration\CRUD Operation\CRUD Operation\bin\Debug\net8.0\CRUD Operation.runtimeconfig.json
+C:\Users\USERR\Desktop\my career\OOP\CPUD Opration\CRUD Operation\CRUD Operation\bin\Debug\net8.0\CRUD Operation.dll
+C:\Users\USERR\Desktop\my career\OOP\CPUD Opration\CRUD Operation\CRUD Operation\bin\Debug\net8.0\CRUD Operation.pdb
+C:\Users\USERR\Desktop\my career\OOP\CPUD Opration\CRUD Operation\CRUD Operation\obj\Debug\net8.0\CRUD Operation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USERR\Desktop\my career\OOP\CPUD Opration\CRUD Operation\CRUD Operation\obj\Debug\net8.0\CRUD Operation.AssemblyInfoInputs.cache
+C:\Users\USERR\Desktop\my career\OOP\CPUD Opration\CRUD Operation\CRUD Operation\obj\Debug\net8.0\CRUD Operation.AssemblyInfo.cs
+C:\Users\USERR\Desktop\my career\OOP\CPUD Opration\CRUD Operation\CRUD Operation\obj\Debug\net8.0\CRUD Operation.csproj.CoreCompileInputs.cache
+C:\Users\USERR\Desktop\my career\OOP\CPUD Opration\CRUD Operation\CRUD Operation\obj\Debug\net8.0\CRUD Operation.dll
+C:\Users\USERR\Desktop\my career\OOP\CPUD Opration\CRUD Operation\CRUD Operation\obj\Debug\net8.0\refint\CRUD Operation.dll
+C:\Users\USERR\Desktop\my career\OOP\CPUD Opration\CRUD Operation\CRUD Operation\obj\Debug\net8.0\CRUD Operation.pdb
+C:\Users\USERR\Desktop\my career\OOP\CPUD Opration\CRUD Operation\CRUD Operation\obj\Debug\net8.0\CRUD Operation.genruntimeconfig.cache
+C:\Users\USERR\Desktop\my career\OOP\CPUD Opration\CRUD Operation\CRUD Operation\obj\Debug\net8.0\ref\CRUD Operation.dll
